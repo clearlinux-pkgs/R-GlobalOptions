@@ -4,7 +4,7 @@
 #
 Name     : R-GlobalOptions
 Version  : 0.1.1
-Release  : 26
+Release  : 27
 URL      : https://cran.r-project.org/src/contrib/GlobalOptions_0.1.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/GlobalOptions_0.1.1.tar.gz
 Summary  : Generate Functions to Get or Set Global Options
